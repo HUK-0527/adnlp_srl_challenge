@@ -1,9 +1,11 @@
 Downloading Models
-In this work, a trained feature-based (logreg) and a transformer-based (bert) model on Universal PropBank are used. They are available for direct download using the links below. Please follow the installation instructions. Access to these models requires a VU account. For external users, please reach out to k.hu3@student.vu.nl.
+In this work, a trained feature-based (logreg) and a transformer-based (bert) model on Universal PropBank are used. 
+They are available for direct download using the links below. Please follow the installation instructions. 
+Access to these models requires a VU account. For external users, please reach out to k.hu3@student.vu.nl.
 
 Logistic regression
 Link: https://vunl-my.sharepoint.com/:f:/g/personal/k_hu3_student_vu_nl/IgD682i2uiUQSaLibmYlROOJAecA3_t8W4ctGMTXXqS95gU?e=19AFAm
-The two files should be placed in the folder Models). You also need a VU account to access OneDrive.
+The two files should be placed in this folder). You also need a VU account to access OneDrive.
 BERT
 Link: https://vunl-my.sharepoint.com/:f:/g/personal/k_hu3_student_vu_nl/IgD682i2uiUQSaLibmYlROOJAecA3_t8W4ctGMTXXqS95gU?e=19AFAm
-This zip file should be unzipped and placed in the folder Models.
+This zip file should be unzipped and placed in this folder.
