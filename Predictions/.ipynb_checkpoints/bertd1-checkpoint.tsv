@@ -1,0 +1,100 @@
+I broke the window .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The window broke .	O,ARG1,O,O	O,O,O,O
+The sun melted the ice .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+The ice melted .	O,ARG1,O,O	O,ARG1,O,O
+You opened the door .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The door opened .	O,ARG1,O,O	O,ARG1,O,O
+He closed the gate .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The gate closed .	O,ARG1,O,O	O,ARG1,O,O
+She sank the ship .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The ship sank .	O,ARG1,O,O	O,ARG1,O,O
+We shattered the glass .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The glass shattered .	O,ARG1,O,O	O,ARG1,O,O
+They boiled the water .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The water boiled .	O,ARG1,O,O	O,ARG1,O,O
+John bounced the ball .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The ball bounced .	O,ARG1,O,O	O,ARG1,O,O
+Mary rolled the ball .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The ball rolled .	O,ARG1,O,O	O,ARG1,O,O
+Bob dropped the cup .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The cup dropped .	O,ARG1,O,O	O,ARG1,O,O
+Alice started the lesson .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The lesson started .	O,ARG1,O,O	O,ARG1,O,O
+Tom stopped the car .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The car stopped .	O,ARG1,O,O	O,ARG1,O,O
+Jane spun the wheel .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The wheel spun .	O,ARG1,O,O	O,ARG1,O,O
+I bent the wire .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The wire bent .	O,ARG1,O,O	O,ARG1,O,O
+You froze the meat .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The meat froze .	O,ARG1,O,O	O,ARG1,O,O
+She dissolved the sugar .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The sugar dissolved .	O,ARG1,O,O	O,ARG1,O,O
+We dried the shirt .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The shirt dried .	O,ARG1,O,O	O,ARG1,O,O
+They expanded the balloon .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The balloon expanded .	O,ARG1,O,O	O,ARG1,O,O
+John gathered the crowd .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The crowd gathered .	O,ARG1,O,O	O,ARG1,O,O
+The cream healed the wound .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+The wound healed .	O,ARG1,O,O	O,ARG1,O,O
+Bob increased the price .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The price increased .	O,ARG1,O,O	O,ARG1,O,O
+Alice decreased the value .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The value decreased .	O,ARG1,O,O	O,ARG1,O,O
+Tom awakened the boy .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The boy awakened .	O,ARG1,O,O	O,ARG1,O,O
+Jane burned the wood .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The wood burned .	O,ARG1,O,O	O,ARG1,O,O
+I burst the pipe .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The pipe burst .	O,ARG1,O,O	O,ARG1,O,O
+You cleared the screen .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The screen cleared .	O,ARG1,O,O	O,ARG1,O,O
+He connected the call .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The call connected .	O,ARG1,O,O	O,ARG1,O,O
+She crashed the system .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The system crashed .	O,ARG1,O,O	O,ARG1,O,O
+We darkened the room .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The room darkened .	O,ARG1,O,O	O,ARG1,O,O
+They floated the raft .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The raft floated .	O,ARG1,O,O	O,ARG1,O,O
+John flew the kite .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The kite flew .	O,ARG1,O,O	O,ARG1,O,O
+Mary folded the map .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The map folded .	O,ARG1,O,O	O,ARG1,O,O
+Bob grew the tree .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The tree grew .	O,ARG1,O,O	O,ARG1,O,O
+Alice thawed the chicken .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The chicken thawed .	O,ARG1,O,O	O,ARG1,O,O
+Tom improved the score .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The score improved .	O,ARG1,O,O	O,ARG1,O,O
+Jane moved the box .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The box moved .	O,ARG1,O,O	O,ARG1,O,O
+You rang the bell .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The bell rang .	O,ARG1,O,O	O,ARG1,O,O
+He rocked the boat .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The boat rocked .	O,ARG1,O,O	O,ARG1,O,O
+She shut the blind .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The blind shut .	O,ARG1,O,O	O,ARG1,O,O
+We snapped the twig .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The twig snapped .	O,ARG1,O,O	O,ARG1,O,O
+They spilled the milk .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The milk spilled .	O,ARG1,O,O	O,ARG1,O,O
+John split the log .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The log split .	O,ARG1,O,O	O,ARG1,O,O
+Mary spread the jam .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The jam spread .	O,ARG1,O,O	O,ARG1,O,O
+Bob stretched the band .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The band stretched .	O,ARG1,O,O	O,ARG1,O,O
+Alice swung the bat .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The bat swung .	O,ARG1,O,O	O,ARG1,O,O
+Tom tore the cloth .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The cloth tore .	O,ARG1,O,O	O,ARG1,O,O
+Jane turned the page .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The page turned .	O,ARG1,O,O	O,ARG1,O,O
+I woke the baby .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The baby woke .	O,ARG1,O,O	O,ARG0,O,O
+You emptied the cup .	O,O,O,ARG1,O	O,O,O,ARG1,O
+The cup emptied .	O,ARG1,O,O	O,ARG1,O,O
+The agent doubled the price .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+The price doubled .	O,ARG1,O,O	O,ARG1,O,O

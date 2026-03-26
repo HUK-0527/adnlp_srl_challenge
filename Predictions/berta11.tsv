@@ -1,0 +1,100 @@
+The decision affects the company .	O,ARG0,O,O,O,O	O,ARG0,ARGM-ADV,O,ARG1,O
+He bought apples .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+She writes poems .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+They built houses .	ARG0,O,O,O	ARG0,O,ARG1,O
+We planted trees .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+I cooked dinner .	ARG0,O,O,O	ARG0,O,ARG1,O
+You broke glasses .	ARG0,O,O,O	ARG0,O,ARG1,O
+He threw rocks .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+She caught fish .	ARG0,O,O,O	ARG0,O,ARG1,O
+They solved puzzles .	ARG0,O,O,O	ARG0,O,ARG1,O
+We sang songs .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+I saw birds .	ARG0,O,O,O	ARG0,O,ARG1,O
+You made mistakes .	ARG0,O,O,O	O,O,ARGM-PRR,O
+He likes cats .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+She hates spiders .	ARG0,O,O,O	ARG0,ARGM-ADV,ARG1,O
+They need water .	ARG0,O,O,O	ARG0,O,ARG1,O
+We want peace .	ARG0,O,O,O	ARG0,ARGM-MOD,ARG1,O
+I heard noises .	ARG0,O,O,O	ARG0,O,ARG1,O
+You felt pain .	ARG0,O,O,O	ARG0,O,ARG1,O
+He smelled smoke .	ARG0,O,O,O	ARG0,O,ARG1,O
+She tasted salt .	ARG0,O,O,O	ARG0,O,ARG1,O
+The dog chased a cat .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A boy kicked the ball .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The girl read books .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A man drove trucks .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The chef baked cakes .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A bird built nests .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The teacher taught math .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A doctor cured patients .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The farmer grew crops .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A kid ate candy .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The bear caught fish .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A spider spins webs .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The author wrote novels .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A student passed exams .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The player scored goals .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A programmer typed code .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The artist drew faces .	O,ARG0,O,O,O	O,ARG0,ARGM-ADV,ARG1,O
+A cleaner swept floors .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The baby drank milk .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+A machine washes clothes .	O,ARG0,O,O,O	O,ARG0,O,ARG1,O
+The dog bit the mailman .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A cat scratched the furniture .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The wind blew the leaves .	O,ARG0,O,O,O,O	O,ARG0,ARGM-ADV,O,ARG1,O
+A storm destroyed the town .	O,ARG0,O,O,O,O	O,ARG0,ARGM-ADV,O,ARG1,O
+The sun melted the ice .	O,ARG0,O,O,O,O	O,ARG0,ARGM-ADV,O,ARG1,O
+A fire burned the forest .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The river flooded the valley .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A thief stole the money .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The police caught the suspect .	O,ARG0,O,O,O,O	O,ARG0,ARGM-ADV,O,ARG1,O
+A judge sentenced the criminal .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The jury reached a verdict .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A lawyer argued the case .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The mayor signed the bill .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A citizen cast a vote .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The manager hired the applicant .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A customer bought the product .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The waiter served the food .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A mechanic fixed the car .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The pilot flew the plane .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A driver parked the vehicle .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+John walked to the store .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG2,O
+Mary ran across the street .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-DIR,O
+Peter jumped over the fence .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-DIR,O
+Susan swam in the pool .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-LOC,O
+David slept on the couch .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-LOC,O
+Lisa sat by the window .	ARG0,O,O,O,O,O	ARG1,O,O,O,ARG2,O
+Mark stood near the door .	ARG0,O,O,O,O,O	ARG1,O,O,O,ARG2,O
+Sarah looked at the painting .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG1,O
+Paul listened to the radio .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG1,O
+Anna talked with the teacher .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG2,O
+James agreed with the plan .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG1,O
+Emily waited for the bus .	ARG0,O,O,O,O,O	ARG1,O,O,O,ARG2,O
+Brian apologized to the boss .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG2,O
+Chloe smiled at the baby .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG1,O
+Kevin laughed at the joke .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARG1,O
+Megan cried during the movie .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-TMP,O
+Jason arrived at the station .	ARG0,O,O,O,O,O	ARG1,O,O,O,ARGM-LOC,O
+Laura departed from the airport .	ARG0,O,O,O,O,O	ARG0,O,O,O,ARGM-DIR,O
+The committee approves the budget .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+The investors lost their money .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A stranger knocked .	O,ARG0,O,O	O,ARG0,O,O
+The baby cried .	O,ARG0,O,O	O,ARG0,O,O
+I rang the bell .	ARG0,O,O,O,O	ARG0,O,O,ARG1,O
+The engine sputtered .	O,ARG0,O,O	O,ARG1,O,O
+The train stopped .	O,ARG0,O,O	O,ARG1,O,O
+Strong winds blew .	O,ARG0,O,O	O,ARG1,O,O
+Wild horses galloped .	O,ARG0,O,O	O,ARG0,O,O
+Brave soldiers fought .	O,ARG0,O,O	O,ARG0,O,O
+Smart students learn .	O,ARG0,O,O	O,ARG0,O,O
+Young children play .	O,ARG0,O,O	O,ARG0,O,O
+I removed the obstacle .	ARG0,O,O,O,O	ARG0,ARGM-ADV,O,ARG1,O
+Water rusted the metal .	ARG0,O,O,O,O	ARG1,O,O,ARG2,O
+I spilled my coffee .	ARG0,O,O,O,O	ARG0,O,O,ARG1,O
+Mr . Hu supervised the test .	O,O,ARG0,O,O,O,O	ARG0,ARG0,O,O,O,ARG1,O
+The scientists published new findings .	O,ARG0,O,O,O,O	O,ARG0,O,O,ARG1,O
+A dog barks .	O,ARG0,O,O	O,ARG0,O,O
+The clock ticked .	O,ARG0,O,O	O,ARG1,O,O
+I did the homework .	ARG0,O,O,O,O	O,O,O,ARGM-PRR,O
+Keze finished the assignment .	ARG0,O,O,O,O	ARG0,O,O,ARG1,O

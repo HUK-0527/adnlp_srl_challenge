@@ -1,0 +1,20 @@
+I found it on paper .	O,O,O,O,ARGM-LOC,O	ARG0,ARGM-ADV,ARG1,O,ARGM-LOC,O
+I found it on that afternoon .	O,O,O,O,O,ARGM-TMP,O	ARG0,ARGM-ADV,ARG1,O,O,ARGM-TMP,O
+I found it on Facebook .	O,O,O,O,ARGM-LOC,O	ARG0,ARGM-ADV,ARG1,O,ARGM-LOC,O
+I found it on Monday .	O,O,O,O,ARGM-TMP,O	ARG0,ARGM-ADV,ARG1,O,ARGM-TMP,O
+I found it in town .	O,O,O,O,ARGM-LOC,O	ARG0,ARGM-ADV,ARG1,O,ARGM-LOC,O
+I found it in seconds .	O,O,O,O,ARGM-TMP,O	ARG0,ARGM-ADV,ARG1,O,ARGM-TMP,O
+I arrived at school .	O,O,O,ARGM-LOC,O	ARG1,O,O,ARGM-LOC,O
+I arrived at 5 .	O,O,O,ARGM-TMP,O	ARG1,O,O,ARGM-TMP,O
+It happened in Pairs .	O,O,O,ARGM-LOC,O	ARG1,O,O,ARGM-MNR,O
+It happend in July .	O,O,O,ARGM-TMP,O	ARG1,O,O,ARGM-TMP,O
+It happened in town .	O,O,O,ARGM-LOC,O	ARG1,O,O,ARGM-LOC,O
+It happend in minutes .	O,O,O,ARGM-TMP,O	ARG1,O,O,ARGM-TMP,O
+The object is from China .	O,O,O,O,ARGM-LOC,O	O,ARG1,O,O,ARG2,O
+The object is from 1998 .	O,O,O,O,ARGM-TMP,O	O,ARG1,O,O,ARG2,O
+The object is from here .	O,O,O,O,ARGM-LOC,O	O,ARG1,O,O,ARG2,O
+The object is from last year .	O,O,O,O,O,ARGM-TMP,O	O,ARG1,O,O,O,ARG2,O
+The agent works throughout the region .	O,O,O,O,O,ARGM-LOC,O	O,ARG0,O,O,O,ARGM-LOC,O
+The agent works throughout the month .	O,O,O,O,O,ARGM-TMP,O	O,ARG0,O,O,O,ARGM-TMP,O
+The agent works throughout the UK.	O,O,O,O,ARGM-LOC,O	O,ARG0,O,O,O,ARGM-LOC
+The agent works throughout September .	O,O,O,O,ARGM-TMP,O	O,ARG0,O,O,ARGM-TMP,O

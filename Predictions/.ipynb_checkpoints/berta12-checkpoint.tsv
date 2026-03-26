@@ -1,0 +1,100 @@
+The decision that was made yesterday affects the company .	O,ARG0,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O
+He , because he was very hungry , bought apples .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+She , who absolutely loves literature , writes poems .	ARG0,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O
+They , although they were incredibly poor , built houses .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+We , since the soil was fertile , planted trees .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+I , while my brother was studying , cooked dinner .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+You , when you dropped the heavy tray , broke glasses .	ARG0,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O
+He , who was visibly angry , threw rocks .	ARG0,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O
+She , after she bought a new rod , caught fish .	ARG0,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O
+They , who worked well together , solved puzzles .	ARG0,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O
+We , as the sun went down , sang songs .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+I , when I looked at the sky , saw birds .	ARG0,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O
+You , because you rushed the complex process , made mistakes .	ARG0,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O
+He , even though he is highly allergic , likes cats .	ARG0,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O
+She , ever since she was a young child , hates spiders .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+They , because the desert is so hot , need water .	ARG0,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O
+We , who have suffered long enough , want peace .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+I , while I was deeply sleeping , heard noises .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+You , after you fell down hard , felt pain .	ARG0,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O
+He , as he walked past the old kitchen , smelled smoke .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+She , when she accidentally drank the ocean water , tasted salt .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+The dog that lives next door chased a cat .	O,ARG0,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O
+A boy who wore bright red shoes kicked the ball .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The girl , who was a very fast reader , read books .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+A man whose real name was actually John drove trucks .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The chef that trained extensively in France baked cakes .	O,ARG0,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O
+A bird which had a severely broken wing built nests .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The teacher , although she really preferred science , taught math .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+A doctor who worked daily at the clinic cured patients .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The farmer , because the rainy season was good , grew crops .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+A kid who found a totally hidden stash ate candy .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The bear , as it stood bravely in the river , caught fish .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+A spider which is very large and scary spins webs .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The author , before he became internationally famous , wrote novels .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+A student who consistently studied day and night passed exams .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The player , when the crucial time was right , scored goals .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+A programmer , while she listened to very loud music , typed code .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+The artist , who always had a unique style , drew faces .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+A cleaner , because the big room was incredibly messy , swept floors .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O
+The baby that was crying so incredibly loudly drank milk .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+A machine , which was only recently invented , washes clothes .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+The dog that was usually very friendly bit the mailman .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+A cat , because it was extremely angry , scratched the furniture .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The wind , which was surprisingly strong today , blew the leaves .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+A storm that slowly gathered over the ocean destroyed the town .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+The sun , as it gracefully rose higher in the sky , melted the ice .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+A fire that unexpectedly started from a single spark burned the forest .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The river , after it rained heavily for days , flooded the valley .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+A thief who quietly sneaked in through the window stole the money .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The police , after they engaged in a long chase , caught the suspect .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A judge who was widely known for his strictness sentenced the criminal .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The jury , after they had deliberated for three hours , reached a verdict .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A lawyer who aggressively represented the defense team argued the case .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+The mayor , because she truly believed in the cause , signed the bill .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A citizen who desperately wanted to see a change cast a vote .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The manager , since he was highly impressed by the resume , hired the applicant .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,0	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+A customer who had patiently been waiting for weeks bought the product .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The waiter , as soon as it was finally ready , served the food .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A mechanic who previously worked at the local garage fixed the car .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The pilot , even though the outside weather was terrible , flew the plane .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A driver who was extremely tired from the long trip parked the vehicle .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+John , while he was talking on the phone , walked to the store .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Mary , because she was running late for work , ran across the street .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Peter , when he suddenly heard the angry dog , jumped over the fence .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Susan , who absolutely loved the freezing cold water , swam in the pool .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+David , since his own bed was completely broken , slept on the couch .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Lisa , while she peacefully watched the heavy rain , sat by the window .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Mark , who was anxiously expecting a large package , stood near the door .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Sarah , because it immediately caught her keen eye , looked at the painting .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Paul , as he drove casually along the empty highway , listened to the radio .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Anna , who was very confused about the new assignment , talked with the teacher .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+James , even though he definitely had some serious doubts , agreed with the plan .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Emily , who was visibly shivering in the bitter cold , waited for the bus .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Brian , after he finally realized his huge terrible mistake , apologized to the boss .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Chloe , when the sweet little infant looked at her , smiled at the baby .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Kevin , who always had a truly great sense of humor , laughed at the joke .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Megan , because the movie ending was so incredibly sad , cried during the movie .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Jason , after he unfortunately missed the very first train , arrived at the station .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Laura , who was currently traveling all the way to Japan , had departed from the airport .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG1,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+The committee that consistently meets every single Tuesday morning approves the budget .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+The investors , because the global stock market suddenly crashed , lost their money .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A stranger who wore a very long dark black coat knocked .	O,ARG0,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O
+The baby , since it was obviously very hungry and tired , cried .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+I , when I finally reached the locked front door , rang the bell .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+The engine , because it was completely out of gas , sputtered .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG1,O,O,O,O,O,O,O,O,O,O,O
+The train , as it slowly approached the busy final station , stopped .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG1,O,O,O,O,O,O,O,O,O,O,O,O
+Strong winds that quickly came from the freezing north blew .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG1,O,O,O,O,O,O,O,O,O
+Wild horses , as they freely roamed across the vast plains , galloped .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG1,O,O,O,O,O,O,O,O,O,O,O,O
+Brave soldiers who fiercely defended their beloved home country fought .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+Smart students , when they pay very close attention in class , learn .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+Young children , because they always have such endless energy , play .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O
+I , since it was fully blocking the narrow path , removed the obstacle .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Water that constantly leaked from the old broken pipe rusted the metal .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O
+I , when someone roughly bumped into my left shoulder , spilled my coffee .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Mr . Hu , who was a very strict and demanding teacher , supervised the test .	O,O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+The scientists , after they had conducted numerous complex experiments , published new findings .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O
+A dog that suddenly sees a very fast cat barks .	O,ARG0,O,O,O,O,O,O,O,O,O	O,ARG0,O,O,O,O,O,O,O,O,O
+The clock , which hung quietly on the far wall , ticked .	O,ARG0,O,O,O,O,O,O,O,O,O,O,O	O,ARG1,O,O,O,O,O,O,O,O,O,O,O
+I , because I desperately wanted to get good grades , did the homework .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+Keze , after he worked tirelessly all through the night , finished the assignment .	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O	ARG0,O,O,O,O,O,O,O,O,O,O,O,O,O,O

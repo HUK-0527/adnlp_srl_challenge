@@ -1,0 +1,8 @@
+He slept a deep sleep .	slept; sleep	"_,x,_,_,_,_"	"O,O,O,O,ARG1,O"
+I still sleep my three or four hours a night .	sleep; hours	"_,_,x,_,_,_,_,_,_,_,_"	"O,O,O,O,O,O,O,ARG1,O,O,O"
+He smiled a sad smile .	smiled; smile	"_,x,_,_,_,_"	"O,O,O,O,ARG1,O"
+She is smiling a wicked grin .	similing; grin	"_,_,x,_,_,_,_"	"O,O,O,O,O,ARG1,O"
+Jason laughs a laugh . 	laughs; laugh	"_,x,_,_,_"	"O,O,O,ARG1,O"
+They laughed at his joke .	laughted; joke	"_,x,_,_,_,_"	"O,O,O,O,ARG1,O"
+Mike cried a loud cry .	cried; cry	"_,x,_,_,_,_"	"O,O,O,O,ARG1,O"
+She cried her eyes out .	crited; eyes	"_,x,_,_,_,_"	"O,O,O,ARG1,O,O"

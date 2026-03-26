@@ -1,0 +1,8 @@
+He slept a deep sleep .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+I still sleep my three or four hours a night .	O,O,O,O,O,O,O,ARG1,O,O,O	O,O,O,O,O,O,O,ARGM-TMP,O,O,O
+He smiled a sad smile .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+She is smiling a wicked grin .	O,O,O,O,O,ARG1,O	O,O,O,O,O,ARG1,O
+Jason laughs a laugh .	O,O,O,ARG1,O	O,O,O,ARG1,O
+They laughed at his joke .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+Mike cried a loud cry .	O,O,O,O,ARG1,O	O,O,O,O,ARG1,O
+She cried her eyes out .	O,O,O,ARG1,O,O	O,O,O,ARG1,O,O

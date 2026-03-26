@@ -1,0 +1,100 @@
+John chased the dog .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The dog was chased .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Mary bit the apple .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The apple was bitten .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Peter kicked the ball .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The ball was kicked .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Sarah threw the frisbee .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The frisbee was thrown .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Tom cooked the meal .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The meal was cooked .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Jane baked the cake .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The cake was baked .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Mark painted the portrait .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The portrait was painted .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Emma wrote the novel .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The novel was written .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Paul sang the song .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The song was sung .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Anna built the house .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The house was built .	O,ARG1,O,O,O	O,ARG1,O,O,O
+David drove the car .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The car was driven .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Lisa flew the plane .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The plane was flown .	O,ARG1,O,O,O	O,ARG1,O,O,O
+James steered the ship .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The ship was steered .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Helen grew the crop .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The crop was grown .	O,ARG1,O,O,O	O,ARG1,O,O,O
+George planted the seed .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The seed was planted .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Laura fixed the engine .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The engine was fixed .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Kevin repaired the pipe .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The pipe was repaired .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Rachel wired the circuit .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The circuit was wired .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Brian cured the patient .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The patient was cured .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Alice treated the wound .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The wound was treated .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Simon taught the lesson .	O,O,O,ARG1,O	ARG0,O,O,ARG2,O
+The lesson was taught .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Clara read the book .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The book was read .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Henry ran the experiment .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The experiment was run .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Diana found the element .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The element was found .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Victor solved the crime .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The crime was solved .	O,ARG1,O,O,O	O,ARG1,O,O,O
+Fiona caught the thief .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The thief was caught by Fiona .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Oscar sentenced the criminal .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The criminal was sentenced by Oscar .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Grace defended the client .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The client was defended by Grace .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Noah delivered the verdict .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The verdict was delivered by Noah .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Mia hired the employee .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The employee was hired by Mia .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Liam fired the worker .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The worker was fired by Liam .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Chloe launched the product .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The product was launched by Chloe .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Ethan won the match .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The match was won by Ethan .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Zoe scored the goal .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The goal was scored by Zoe .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Luke blew the whistle .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The whistle was blown by Luke .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Lily played the instrument .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The instrument was played by Lily .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Adam arranged the symphony .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The symphony was arranged by Adam .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Eva performed the role .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The role was performed by Eva .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Ryan filmed the movie .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The movie was filmed by Ryan .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Nora funded the project .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The project was funded by Nora .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Jack swept the floor .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The floor was swept by Jack .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Ruby mopped the hallway .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The hallway was mopped by Ruby .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Owen dusted the shelf .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The shelf was dusted by Owen .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Lucy sewed the dress .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The dress was sewn by Lucy .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Evan mended the cabling .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The cabling was mended by Evan .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Mila forged the sword .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The sword was forged by Mila .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Cole crafted the table .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The table was crafted by Cole .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Maya designed the building .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The building was designed by Maya .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Sean tested the bridge .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The bridge was tested by Sean .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
+Tara coded the software .	O,O,O,ARG1,O	ARG0,O,O,ARG1,O
+The software was coded by Tara .	O,ARG1,O,O,O,O,O	O,ARG1,O,O,O,ARG0,O
