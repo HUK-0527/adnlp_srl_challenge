@@ -23,21 +23,21 @@ The spaCy parser `en-core-web-lg` is also used. You need to download it before r
 `python -m spacy download en_core_web_lg`
 
 ## Repository Structures
-###  `logreg_cha_srl.ipynb`
+###  .\`logreg_cha_srl.ipynb`
 This is the first major notebook that runs the logistic regression on the challenge dataset. It uses scripts `a1standalone.py` and `a1calculation.py`. You will need to import them by executing the first line.
 To make this work, model files should be placed in `Models`.
-###  `Bert_cha_srl.ipynb`
+###  .\`Bert_cha_srl.ipynb`
 This is the second major notebook that runs fine-tuned BERT on the challenge dataset. It uses scripts `a2standalone.py` and `a2calculation.py`. You will need to import them by executing the first line.
 To make this work, the model folder `bertsrl` should be placed in `Models`.
-### Data
+### .\`Data`
 This is the challenge dataset folder contain eight `.tsv` files. They are uniform in formats with four columns:
 1) use cases
 2) predicate;token in focus
 3) predicate labels (separated by commas)
 4) argument labels (separated by commas)
-### Generation_prompts_codes
+### .\`Generation_prompts_codes`
 This folder documents the engineered prompts and raw generation of Gemini 3.1 Pro.
 
 It also contains `B1+E1_DIR_predsub_pp,ipynb` used for mask-filling generation methods. To run it, make sure you install `requirements.txt`.
-### Predictions
+### .\`Predictions`
 It contains model's output (in the last column) for the challenge tests.
